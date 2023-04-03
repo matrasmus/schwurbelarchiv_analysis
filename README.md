@@ -5,10 +5,10 @@ Preliminary results:
 
 ![](prelim_images/mechanism_of_data_prep.png)
 
+![](prelim_images/prelim_quant_results.png)
+
 ![](prelim_images/prelim_content_dist.png)
 
 ![](prelim_images/prelim_network_results.png)
-
-![](prelim_images/prelim_quant_results.png)
 
 ![](prelim_images/prelim_topic_model.png)
