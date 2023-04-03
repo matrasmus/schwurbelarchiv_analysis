@@ -3,7 +3,7 @@ First steps towards analyzing the Schwurbelarchiv. While analysis is still not s
 
 Preliminary results:
 
-![](mechanism_of_data_prep.png)
+![](prelim_images/mechanism_of_data_prep.png)
 
 ![]()
 
